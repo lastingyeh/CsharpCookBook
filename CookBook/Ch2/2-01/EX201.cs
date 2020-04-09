@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch2._2_1
+namespace CookBook.Ch2._2_01
 {
     public static class EX201
     {

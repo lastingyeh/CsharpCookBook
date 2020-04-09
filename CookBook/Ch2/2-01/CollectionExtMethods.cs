@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CookBook.Ch2._2_1
+namespace CookBook.Ch2._2_01
 {
     static class CollectionExtMethods
     {
