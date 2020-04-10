@@ -9,4 +9,11 @@
     <PackageReference Include="System.Diagnostics.EventLog" Version="4.7.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Ch2\2-05\" />
+    <Folder Include="Ch2\2-06\" />
+    <Folder Include="Ch2\2-07\" />
+    <Folder Include="Ch1\1-03\" />
+    <Folder Include="Ch1\1-04\" />
+  </ItemGroup>
 </Project>

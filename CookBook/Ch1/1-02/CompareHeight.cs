@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch1.TestSort
+namespace CookBook.Ch1
 {
     public class CompareHeight : IComparer<Square>
     {

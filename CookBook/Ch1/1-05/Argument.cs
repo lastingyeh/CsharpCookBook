@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 
-namespace CookBook.Ch1.Arguments
+namespace CookBook.Ch1
 {
     public sealed class Argument
     {

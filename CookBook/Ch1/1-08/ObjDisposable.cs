@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace CookBook.Ch1._1_8
+namespace CookBook.Ch1
 {
     class ObjDisposable
     {

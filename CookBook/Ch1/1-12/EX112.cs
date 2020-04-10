@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace CookBook.Ch1._1_12
+namespace CookBook.Ch1
 {
     public static class EX112
     {

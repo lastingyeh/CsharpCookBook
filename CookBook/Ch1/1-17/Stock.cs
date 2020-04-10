@@ -1,4 +1,4 @@
-﻿namespace CookBook.Ch1._1_17
+﻿namespace CookBook.Ch1
 {
     public class Stock
     {

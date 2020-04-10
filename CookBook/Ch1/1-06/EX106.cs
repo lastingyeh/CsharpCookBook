@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch1.ConstInit
+namespace CookBook.Ch1
 {
-    class EX16
+    class EX106
     {
         public static void Run()
         {

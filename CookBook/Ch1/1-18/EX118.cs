@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace CookBook.Ch1._1_18
+namespace CookBook.Ch1
 {
     public static class EX118
     {

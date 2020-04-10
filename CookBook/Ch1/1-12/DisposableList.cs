@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch1._1_12
+namespace CookBook.Ch1
 {
     public class DisposableList<T> : IList<T> where T : class, IDisposable
     {

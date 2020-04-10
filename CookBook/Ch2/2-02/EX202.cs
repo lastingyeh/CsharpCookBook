@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CookBook.Ch2._2_02
+namespace CookBook.Ch2
 {
     public static class EX202
     {

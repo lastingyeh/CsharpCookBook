@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch1._1_7
+namespace CookBook.Ch1
 {
-    public interface IDeepCopy<T>
+    public interface IShallowCopy<T>
     {
-        T DeepCopy();
+        T ShallowCopy();
     }
 }

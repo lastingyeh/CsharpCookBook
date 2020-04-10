@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CookBook.Ch2._2_02
+namespace CookBook.Ch2
 {
     public class SortedList<T>:List<T>
     {

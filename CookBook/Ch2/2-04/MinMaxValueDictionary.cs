@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace CookBook.Ch2._2_04
+namespace CookBook.Ch2
 {
     [Serializable]
     public class MinMaxValueDictionary<T, U> where U : IComparable<U>

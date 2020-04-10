@@ -4,7 +4,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 
-namespace CookBook.Ch1._1_7
+namespace CookBook.Ch1
 {
     [Serializable]
     public class MultiClone : IShallowCopy<MultiClone>, IDeepCopy<MultiClone>

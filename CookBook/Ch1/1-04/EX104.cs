@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch1.ReturnDimensions
+namespace CookBook.Ch1
 {
-    public class EX14
+    public class EX104
     {
         // Multiple return values
         public void Run()

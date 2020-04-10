@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch1.TestSort
+namespace CookBook.Ch1
 {
-    public static class EX12
+    public static class EX102
     {
         public static void TestSort()
         {

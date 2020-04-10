@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CookBook.Ch1._1_17
+namespace CookBook.Ch1
 {
     public class StockPortfolio : IEnumerable<Stock>
     {

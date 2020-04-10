@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace CookBook.Ch1._1_15
+namespace CookBook.Ch1
 {
     [Serializable]
     public class MulticastInvocationException : Exception

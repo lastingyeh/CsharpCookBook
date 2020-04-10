@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
-namespace CookBook.Ch1.TestSort
+namespace CookBook.Ch1
 {
     public class Square : IComparable<Square>
     {

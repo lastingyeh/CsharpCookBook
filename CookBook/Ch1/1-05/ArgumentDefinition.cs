@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CookBook.Ch1.Arguments
+namespace CookBook.Ch1
 {
     public sealed class ArgumentDefinition
     {

@@ -1,11 +1,9 @@
-﻿using CookBook.Ch1.TestSort;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace CookBook.Ch1.TestSearch
+namespace CookBook.Ch1
 {
-    public static class EX13
+    public static class EX103
     {
         public static void TestSearch()
         {

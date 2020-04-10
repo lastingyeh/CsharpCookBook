@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CookBook.Ch1._1_18
+namespace CookBook.Ch1
 {
     // Struct with an overload constructor
     public struct Data1
