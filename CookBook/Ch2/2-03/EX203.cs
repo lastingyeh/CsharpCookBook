@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CookBook.Ch1._2_03
+namespace CookBook.Ch2._2_03
 {
     public static class EX203
     {

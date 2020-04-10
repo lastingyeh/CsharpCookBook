@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace CookBook.Ch1.EX1_17
+namespace CookBook.Ch1._1_17
 {
     public static class EX117
     {

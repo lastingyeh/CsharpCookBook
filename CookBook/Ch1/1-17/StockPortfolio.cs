@@ -2,9 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
-namespace CookBook.Ch1.EX1_17
+namespace CookBook.Ch1._1_17
 {
     public class StockPortfolio : IEnumerable<Stock>
     {
