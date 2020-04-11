@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Threading;
 using CookBook.Ch1;
 using CookBook.Ch2;
 
@@ -10,7 +10,7 @@ namespace CookBook
         static void Main(string[] args)
         {
             //Test current
-            EX207.Run();
+            EX210.Run().Wait();
         }
 
         static void Ch1()
@@ -40,6 +40,9 @@ namespace CookBook
             EX203.Run();
             EX205.Run();
             EX206.Run();
+            EX207.Run();
+            EX208.Run();
+            EX209.CreateNestedObjects();
         }
     }
 }
