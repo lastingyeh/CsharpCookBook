@@ -23,5 +23,7 @@
     <Folder Include="Ch4\" />
     <Folder Include="Ch4\4-01\" />
     <Folder Include="Ch4\4-02\" />
+    <Folder Include="Ch4\4-03\" />
+    <Folder Include="Ch4\4-04\" />
   </ItemGroup>
 </Project>
