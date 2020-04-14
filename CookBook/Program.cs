@@ -11,7 +11,7 @@ namespace CookBook
     {
         static void Main(string[] args)
         {
-            EX404.Run();
+            EX407.Run();
             
         }
 
@@ -65,6 +65,8 @@ namespace CookBook
         static void Ch4()
         {
             EX402.Run();
+            EX404.Run();
+            EX405.Run();
         }
     }
 }

@@ -12,6 +12,7 @@
   <ItemGroup>
     <PackageReference Include="System.Diagnostics.EventLog" Version="4.7.0" />
     <PackageReference Include="Experimental.System.Messaging" Version="1.1.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,5 +26,9 @@
     <Folder Include="Ch4\4-02\" />
     <Folder Include="Ch4\4-03\" />
     <Folder Include="Ch4\4-04\" />
+    <Folder Include="Ch4\4-05\" />
+    <Folder Include="Ch4\4-06\" />
+    <Folder Include="Ch4\4-07\" />
+    <Folder Include="Ch4\4-08\" />
   </ItemGroup>
 </Project>
