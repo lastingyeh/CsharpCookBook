@@ -1,1 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
+<BigSpenders>
+    <Customer companyName="Folk och fa HB" contactName="Maria Larsson"
+                phoneNumber="0695-34 67 21" amountSpent="39805.162472039461" />
+    <Customer companyName="White Clover Markets" contactName="Karl Jablonski"
+                phoneNumber="(206) 555-4112" amountSpent="35957.604972146451" />
+    <Customer companyName="Bon app'" contactName="Laurence Lebihan"
+                phoneNumber="91.24.45.40" amountSpent="22311.577472746558" />
+    <Customer companyName="LINO-Delicateses" contactName="Felipe Izquierdo"
+                phoneNumber="(8) 34-56-12" amountSpent="20458.544984650609" />
+    <Customer companyName="Simons bistro" contactName="Jytte Petersen"
+                phoneNumber="31 12 34 56" amountSpent="18978.777493602414" />
+</BigSpenders>
