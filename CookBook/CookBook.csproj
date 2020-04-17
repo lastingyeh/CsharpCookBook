@@ -31,5 +31,17 @@
     <Folder Include="Ch4\4-08\" />
     <Folder Include="Ch4\4-13\" />
     <Folder Include="Ch4\4-14\" />
+    <Folder Include="Ch5\" />
+    <Folder Include="Ch5\5-01\" />
+    <Folder Include="Ch5\5-02\" />
+    <Folder Include="Ch5\5-03\" />
+    <Folder Include="Ch5\5-05\" />
+    <Folder Include="Ch5\5-06\" />
+    <Folder Include="Ch5\5-07\" />
+    <Folder Include="Ch5\5-08\" />
+    <Folder Include="Ch5\5-09\" />
+    <Folder Include="Ch5\5-10\" />
+    <Folder Include="Ch5\5-11\" />
+    <Folder Include="Ch5\5-12\" />
   </ItemGroup>
 </Project>
