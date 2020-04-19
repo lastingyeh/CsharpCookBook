@@ -10,6 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.ComponentModel" Version="4.3.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
     <PackageReference Include="System.Diagnostics.EventLog" Version="4.7.0" />
     <PackageReference Include="Experimental.System.Messaging" Version="1.1.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
@@ -31,7 +33,6 @@
     <Folder Include="Ch4\4-08\" />
     <Folder Include="Ch4\4-13\" />
     <Folder Include="Ch4\4-14\" />
-    <Folder Include="Ch5\" />
     <Folder Include="Ch5\5-01\" />
     <Folder Include="Ch5\5-02\" />
     <Folder Include="Ch5\5-03\" />

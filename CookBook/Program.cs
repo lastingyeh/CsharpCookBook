@@ -12,8 +12,7 @@ namespace CookBook
     {
         static void Main(string[] args)
         {
-            EX509.Run();
-
+           
         }
 
         static void Ch1()
@@ -80,6 +79,11 @@ namespace CookBook
             EX502.Run();
             EX505.Run();
             EX506.Run();
+            EX509.Run();
+            EX513.Run();
+            EX514.Run();
+            EX515.Run();
+            EX516.Run();
         }
     }
 }
