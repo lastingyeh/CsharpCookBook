@@ -1,10 +1,9 @@
-﻿using System;
-using System.Threading;
-using CookBook.Ch1;
+﻿using CookBook.Ch1;
 using CookBook.Ch2;
 using CookBook.Ch3;
 using CookBook.Ch4;
 using CookBook.Ch5;
+using CookBook.Ch6;
 
 namespace CookBook
 {
@@ -12,7 +11,7 @@ namespace CookBook
     {
         static void Main(string[] args)
         {
-           
+            EX603.Run();
         }
 
         static void Ch1()
@@ -84,6 +83,12 @@ namespace CookBook
             EX514.Run();
             EX515.Run();
             EX516.Run();
+        }
+
+        static void Ch6()
+        {
+            EX601.Run();
+            EX602.Run();
         }
     }
 }
