@@ -15,6 +15,7 @@
     <PackageReference Include="System.Diagnostics.EventLog" Version="4.7.0" />
     <PackageReference Include="Experimental.System.Messaging" Version="1.1.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 
   <ItemGroup>
@@ -48,5 +49,20 @@
     <Folder Include="Ch6\6-01\" />
     <Folder Include="Ch6\6-02\" />
     <Folder Include="Ch6\6-03\" />
+    <Folder Include="Ch6\6-04\" />
+    <Folder Include="Ch6\6-05\" />
+    <Folder Include="Ch6\6-06\" />
+    <Folder Include="Ch6\6-07\" />
+    <Folder Include="obj\" />
+    <Folder Include="Ch6\6-08\" />
+    <Folder Include="Ch6\6-09\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Ch6\6-04\SampleClassLibraryTests.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="SampleClassLibrary">
+      <HintPath>..\..\SampleClassLibrary\SampleClassLibrary\bin\Debug\SampleClassLibrary.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

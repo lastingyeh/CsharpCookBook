@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Tests>
+    <Test className="SampleClassLibrary.SampleClass" methodName="TestMethod1">
+        <Parameter>Running TestMethod1</Parameter>
+    </Test>
+    <Test className="SampleClassLibrary.SampleClass" methodName="TestMethod2">
+        <Parameter>Running TestMethod2</Parameter>
+        <Parameter>27</Parameter>
+    </Test>
+</Tests>
