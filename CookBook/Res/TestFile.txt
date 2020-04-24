@@ -1,0 +1,4 @@
+﻿Line1: Hello World.
+Line2: Show me the money
+Line3: Data complete
+Break;

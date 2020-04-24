@@ -56,6 +56,20 @@
     <Folder Include="obj\" />
     <Folder Include="Ch6\6-08\" />
     <Folder Include="Ch6\6-09\" />
+    <Folder Include="Ch7\" />
+    <Folder Include="Ch7\7-01\" />
+    <Folder Include="Ch7\7-02\" />
+    <Folder Include="Ch7\7-03\" />
+    <Folder Include="Ch7\7-04\" />
+    <Folder Include="Ch7\7-05\" />
+    <Folder Include="Res\" />
+    <Folder Include="Ch7\7-06\" />
+    <Folder Include="Ch7\7-07\" />
+    <Folder Include="Ch8\" />
+    <Folder Include="Ch8\8-01\" />
+    <Folder Include="Ch8\8-02\" />
+    <Folder Include="Ch8\8-03\" />
+    <Folder Include="Ch8\8-04\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Ch6\6-04\SampleClassLibraryTests.xml" />
