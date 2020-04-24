@@ -5,6 +5,7 @@ using CookBook.Ch4;
 using CookBook.Ch5;
 using CookBook.Ch6;
 using CookBook.Ch7;
+using CookBook.Ch8;
 
 namespace CookBook
 {
@@ -13,7 +14,7 @@ namespace CookBook
     {
         static void Main(string[] args)
         {
-            EX706.Run();
+            EX802.Run();
         }
 
         static void Ch1()
@@ -104,6 +105,12 @@ namespace CookBook
             EX704.Run();
             EX705.Run();
             EX705.Run();
+            EX706.Run();
+        }
+
+        static void Ch8()
+        {
+            EX802.Run();
         }
     }
 }

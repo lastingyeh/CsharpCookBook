@@ -65,6 +65,11 @@
     <Folder Include="Res\" />
     <Folder Include="Ch7\7-06\" />
     <Folder Include="Ch7\7-07\" />
+    <Folder Include="Ch8\" />
+    <Folder Include="Ch8\8-01\" />
+    <Folder Include="Ch8\8-02\" />
+    <Folder Include="Ch8\8-03\" />
+    <Folder Include="Ch8\8-04\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Ch6\6-04\SampleClassLibraryTests.xml" />
