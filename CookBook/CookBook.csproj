@@ -16,6 +16,7 @@
     <PackageReference Include="Experimental.System.Messaging" Version="1.1.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.IO.Compression" Version="4.3.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -65,7 +66,6 @@
     <Folder Include="Res\" />
     <Folder Include="Ch7\7-06\" />
     <Folder Include="Ch7\7-07\" />
-    <Folder Include="Ch8\" />
     <Folder Include="Ch8\8-01\" />
     <Folder Include="Ch8\8-02\" />
     <Folder Include="Ch8\8-03\" />

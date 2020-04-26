@@ -96,7 +96,6 @@ namespace CookBook
             EX604.Run();
             EX607.Run();
             EX609.Run();
-            EX609.Run();
         }
 
         static void Ch7()
