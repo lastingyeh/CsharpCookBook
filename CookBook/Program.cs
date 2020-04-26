@@ -10,12 +10,11 @@ using CookBook.Ch9;
 
 namespace CookBook
 {
-
     class Program
     {
         static void Main(string[] args)
         {
-            EX902.Run();
+            EX904.Run();
         }
 
         static void Ch1()
@@ -118,6 +117,7 @@ namespace CookBook
         static void Ch9()
         {
             EX902.Run();
+            EX904.Run();
         }
     }
 }

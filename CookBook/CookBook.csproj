@@ -74,9 +74,4 @@
   <ItemGroup>
     <None Include="Ch6\6-04\SampleClassLibraryTests.xml" />
   </ItemGroup>
-  <ItemGroup>
-    <Reference Include="SampleClassLibrary">
-      <HintPath>..\..\SampleClassLibrary\SampleClassLibrary\bin\Debug\SampleClassLibrary.dll</HintPath>
-    </Reference>
-  </ItemGroup>
 </Project>
