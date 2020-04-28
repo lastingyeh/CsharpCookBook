@@ -17,6 +17,7 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
+    <PackageReference Include="System.DirectoryServices" Version="4.7.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -70,6 +71,11 @@
     <Folder Include="Ch8\8-02\" />
     <Folder Include="Ch8\8-03\" />
     <Folder Include="Ch8\8-04\" />
+    <Folder Include="Ch9\9-06\" />
+    <Folder Include="Ch9\9-07\" />
+    <Folder Include="Ch9\9-08\" />
+    <Folder Include="Ch9\9-09\" />
+    <Folder Include="Ch9\9-10\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Ch6\6-04\SampleClassLibraryTests.xml" />
