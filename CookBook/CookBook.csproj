@@ -15,7 +15,7 @@
     <PackageReference Include="System.Diagnostics.EventLog" Version="4.7.0" />
     <PackageReference Include="Experimental.System.Messaging" Version="1.1.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
     <PackageReference Include="System.DirectoryServices" Version="4.7.0" />
     <PackageReference Include="System.Web.Http.Common" Version="4.0.20126.16343" />
